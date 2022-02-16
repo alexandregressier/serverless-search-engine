@@ -7,3 +7,9 @@
 !**/.idea/scopes/
 !**/.idea/fileColors.xml
 *.iml
+
+# npm
+node_modules/
+
+# Serverless
+.serverless/
